@@ -1,4 +1,6 @@
-description: null
+description: This module can add wireless comunication capability to your project
+  via Bluetooth Low Energy protocol. This module uses NRF8001 chip, wich comunicates
+  with the host controler via SPI the interface.
 github_branch: BLE01A
 github_repo: BLE01
 github_url: https://github.com/mlab-modules/BLE01
